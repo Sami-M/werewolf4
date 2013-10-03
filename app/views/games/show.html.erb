@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Start:</b>
+  <%= @game.start %>
+</p>
+
+<p>
+  <b>Interval:</b>
+  <%= @game.interval %>
+</p>
+
+<div class="span8">
+  <% if @game.users.any? %>
+      <h3>Users (<%= @game.users.count %>)</h3>
+      <ol class="users">
+        <%= render @users %>
+      </ol>
+      <%= will_paginate @users %>
+  <% end %>
+</div>
+
+<%= link_to 'Edit', edit_game_path(@game) %> |
+<%= link_to 'Back', games_path %>

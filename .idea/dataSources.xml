@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2313447970">
+    <data-source source="LOCAL" name="Rails werewolf4: production" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="0571c366-2fa5-4df0-824f-3c2cd707a7a9">
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:werewolf4_production</jdbc-url>
+      <user-name>werewolf4</user-name>
+      <user-password>dfe8dfc6dfcbdfc9dfc1dfc7dfcbdfcddfc3dfc9df9bdf9adf9b</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-driver-license.txt</url>
+        </library>
+        <library>
+          <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-9.2-1002.jdbc3.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="Rails werewolf4: development" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="a661492d-d517-4d13-9e42-d407e00aa4ef">
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:werewolf4</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfe8dfc6dfcbdfc9dfc1dfc7dfcbdfcddfc3dfc9df9bdf9adf9b</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-driver-license.txt</url>
+        </library>
+        <library>
+          <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-9.2-1002.jdbc3.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="Rails werewolf4: test" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="cd209fcd-2080-4c16-8d72-4d45944c6162">
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:werewolf4</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfe8dfc6dfcbdfc9dfc1dfc7dfcbdfcddfc3dfc9df9bdf9adf9b</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-driver-license.txt</url>
+        </library>
+        <library>
+          <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-9.2-1002.jdbc3.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
