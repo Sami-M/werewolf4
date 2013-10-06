@@ -7,7 +7,8 @@ Werewolf4::Application.routes.draw do
 
   resources :games
 
-  match '/blah/:killerid/:victimid', to: 'kill#show', :constraints => {:killerid => /[0-9]*/, :victimid => /[0-9]*/}
+  match '/blah/:killerid/:victimid', to: 'kill#show', :constraints => {:killerid => /[0-9]*/, :victimid => /[0-9]*/}  #rename
+  match '/highscores/', to: "highscore#show"
   match '/kill', :to => redirect('/kill.html')
 
   # The priority is based upon order of creation:

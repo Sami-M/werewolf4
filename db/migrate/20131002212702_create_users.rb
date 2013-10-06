@@ -6,6 +6,7 @@ class CreateUsers < ActiveRecord::Migration
       t.integer :player
       t.integer :game_id
       t.integer :user_id
+      t.string :email
 
       t.timestamps
     end
