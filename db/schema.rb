@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20131006193703) do
+ActiveRecord::Schema.define(:version => 20131007012617) do
 
   create_table "games", :force => true do |t|
     t.time     "start"
@@ -42,6 +42,9 @@ ActiveRecord::Schema.define(:version => 20131006193703) do
     t.datetime "updated_at",      :null => false
     t.boolean  "alive"
     t.string   "email"
+    t.string   "remember_token"
   end
+
+  add_index "users", ["remember_token"], :name => "index_users_on_remember_token"
 
 end

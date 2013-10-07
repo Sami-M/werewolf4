@@ -1,8 +1,21 @@
 Werewolf4::Application.routes.draw do
 
+  root :to => "static_pages#home"
+  match '/about',   :to => 'static_pages#about'
+  match '/help',    :to => 'static_pages#help'
+
+
+
   get "static_pages/home"
 
   get "static_pages/help"
+
+  get "static_pags/about"
+
+  #match '/signup', :to => redirect('/users/new')
+
+  match '/signin',  to: 'sessions#new',         via: 'get'
+  match '/signout', to: 'sessions#destroy',     via: 'delete'
 
   resources :players
 
@@ -11,6 +24,8 @@ Werewolf4::Application.routes.draw do
 
 
   resources :games
+
+  resources :sessions, only: [:new, :create, :destroy]
 
   match '/blah/:killerid/:victimid', to: 'kill#show', :constraints => {:killerid => /[0-9]*/, :victimid => /[0-9]*/}  #rename
   match '/highscores/', to: "highscore#show"
