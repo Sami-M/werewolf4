@@ -34,7 +34,7 @@ in hopes to eliminate another werewolf before night.
 		
 		belongs_to :user, dependent: :destroy
 
-== To Do:
+3. Players can now kill other players.
 
 
-
+== App is hosted at http://werewolf-mafia.herokuapp.com/static_pages/home
