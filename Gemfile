@@ -7,9 +7,6 @@ gem 'bootstrap-sass', '2.3.2.0'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
-group :development do
-  gem 'sqlite3'
-end
 
 gem 'annotate', '2.5.0'
 gem 'will_paginate', '3.0.4'
