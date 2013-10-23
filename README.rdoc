@@ -36,6 +36,8 @@ in hopes to eliminate another werewolf before night.
 
 3. Players can now kill other players.
 4. Signup done
+5. SSL added
+6. Preliminary testing with Python Requests
 
 
 == App is hosted at http://werewolf-mafia.herokuapp.com/static_pages/home

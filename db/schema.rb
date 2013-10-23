@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20131007012617) do
+ActiveRecord::Schema.define(:version => 20131021050213) do
 
   create_table "games", :force => true do |t|
     t.time     "start"
@@ -38,11 +38,12 @@ ActiveRecord::Schema.define(:version => 20131007012617) do
     t.integer  "player"
     t.integer  "game_id"
     t.integer  "user_id"
-    t.datetime "created_at",      :null => false
-    t.datetime "updated_at",      :null => false
+    t.datetime "created_at",                         :null => false
+    t.datetime "updated_at",                         :null => false
     t.boolean  "alive"
     t.string   "email"
     t.string   "remember_token"
+    t.boolean  "admin",           :default => false
   end
 
   add_index "users", ["remember_token"], :name => "index_users_on_remember_token"

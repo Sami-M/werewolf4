@@ -1,4 +1,6 @@
 class User < ActiveRecord::Base
+  before_save { self.email = email.downcase }
+  before_create :create_remember_token
   attr_accessible :game_id, :name, :password_digest, :player, :user_id, :email, :password, :password_confirmation
   belongs_to :game
   has_one :player
