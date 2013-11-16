@@ -41,15 +41,14 @@ class GamesController < ApplicationController
   # POST /games.json
   def create
     @game = Game.new(params[:game])
-
     respond_to do |format|
       if @game.save
         format.html { redirect_to @game, notice: 'Game was successfully created.' }
         format.json { render json: @game, status: :created, location: @game }
         x = 0
 
-        while (User.find_by_user_id(x) != Null) do
-          @users = User.find_by_user_id
+        User.all.each do |user|
+          print ("WOAH ")
           @player = Player.new
           @player.user_id = x
           x = x+1
@@ -59,6 +58,7 @@ class GamesController < ApplicationController
           @player.wolf = false
           @player.voting = false
           @player.score = 0
+          @player.save!
         end
       else
         format.html { render action: "new" }
