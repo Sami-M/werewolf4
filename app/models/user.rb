@@ -1,7 +1,7 @@
 class User < ActiveRecord::Base
   before_save { self.email = email.downcase }
   before_create :create_remember_token
-  attr_accessible :game_id, :name, :password_digest, :player, :user_id, :email, :password, :password_confirmation
+  attr_accessible :game_id, :name, :password_digest, :player, :user_id, :email, :password, :password_confirmation, :admin
   belongs_to :game
   has_one :player
   before_save { self.email = email.downcase }

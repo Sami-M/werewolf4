@@ -4,39 +4,61 @@
     <list default="true" id="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" name="Default" comment="" />
     <ignored path="werewolf4.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/database.yml" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1380746412892" ignored="false" />
+    <file path="/database.yml" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1384076571633" ignored="false" />
     <file path="/20131002205207_create_games.rb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1380747224074" ignored="false" />
-    <file path="/application.html.erb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1381117059436" ignored="false" />
-    <file path="/user.rb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1381084660416" ignored="false" />
+    <file path="/application.html.erb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1384077327849" ignored="false" />
+    <file path="/user.rb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1384083662093" ignored="false" />
     <file path="/game.rb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1380748432238" ignored="false" />
     <file path="/show.html.erb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1380758893333" ignored="false" />
-    <file path="/games_controller.rb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1380754161536" ignored="false" />
+    <file path="/games_controller.rb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1384133285212" ignored="false" />
     <file path="/_users.html.erb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1380750291482" ignored="false" />
     <file path="/games.html.erb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1380750335827" ignored="false" />
     <file path="/_user.html.erb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1380753247754" ignored="false" />
     <file path="/schema.rb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1381087858118" ignored="false" />
-    <file path="/index.html.erb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1382330702355" ignored="false" />
+    <file path="/index.html.erb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1384130986749" ignored="false" />
     <file path="/_form.html.erb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1381103920804" ignored="false" />
     <file path="/player.rb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1380759056633" ignored="false" />
-    <file path="/users_controller.rb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1382330541568" ignored="false" />
+    <file path="/users_controller.rb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1384083544729" ignored="false" />
     <file path="/routes.rb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1381801513568" ignored="false" />
     <file path="/killtest.html.erb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1380759874863" ignored="false" />
     <file path="/kill_controller.rb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1380770722305" ignored="false" />
     <file path="/highscore_controller.rb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1380831095638" ignored="false" />
     <file path="/20131006181146_rename_passwored.rb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1381083614485" ignored="false" />
-    <file path="/Gemfile" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1382332214176" ignored="false" />
+    <file path="/Gemfile" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1384077942244" ignored="false" />
     <file path="/20131002212702_create_users.rb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1381086964573" ignored="false" />
     <file path="/home.html.erb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1381099376591" ignored="false" />
     <file path="/help.html.erb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1381099399389" ignored="false" />
     <file path="/static_pages_controller.rb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1381099673009" ignored="false" />
-    <file path="/_footer.html.erb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1381102115484" ignored="false" />
-    <file path="/_header.html.erb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1381522656511" ignored="false" />
+    <file path="/_footer.html.erb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1384128284455" ignored="false" />
+    <file path="/_header.html.erb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1384081957258" ignored="false" />
     <file path="/sessions_controller.rb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1381117851462" ignored="false" />
     <file path="/new.html.erb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1381108809203" ignored="false" />
     <file path="/sessions_helper.rb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1381117743011" ignored="false" />
     <file path="/20131006193703_add_email_to_users.rb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1381519365390" ignored="false" />
     <file path="/README.rdoc" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1381808042124" ignored="false" />
     <file path="/20131021050213_add_admin_to_users.rb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1382331948971" ignored="false" />
+    <file path="$PROJECT_DIR$/../Politicus/Gemfile" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1383176040050" ignored="false" />
+    <file path="$PROJECT_DIR$/../Politicus/config/database.yml" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1383176623756" ignored="false" />
+    <file path="$PROJECT_DIR$/../politicus1/Gemfile" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1383177189193" ignored="false" />
+    <file path="$PROJECT_DIR$/../politicus1/config/database.yml" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1383177223482" ignored="false" />
+    <file path="$PROJECT_DIR$/../politicus1/app/assets/javascripts/application.js" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1383182040947" ignored="false" />
+    <file path="$PROJECT_DIR$/../politicus1/db/schema.rb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1383188497109" ignored="false" />
+    <file path="$PROJECT_DIR$/../politicus1/config/routes.rb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1383188497109" ignored="false" />
+    <file path="$PROJECT_DIR$/../politicus1/app/views/layouts/application.html.erb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1383281238368" ignored="false" />
+    <file path="$PROJECT_DIR$/../politicus1/public/index.html" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1383266578516" ignored="false" />
+    <file path="$PROJECT_DIR$/../politicus1/log/development.log" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1383367380958" ignored="false" />
+    <file path="/index.html" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1383266566104" ignored="false" />
+    <file path="$PROJECT_DIR$/../politicus1/config/application.rb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1383267250913" ignored="false" />
+    <file path="$PROJECT_DIR$/../politicus1/app/assets/stylesheets/custom.css.scss" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1383280279963" ignored="false" />
+    <file path="/custom.css.scss" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1384127265616" ignored="false" />
+    <file path="$PROJECT_DIR$/../politicus1/app/views/layouts/_header.html.erb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1383282564107" ignored="false" />
+    <file path="$PROJECT_DIR$/../politicus1/app/views/layouts/_footer.html.erb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1383280249081" ignored="false" />
+    <file path="$PROJECT_DIR$/../politicus1/app/views/layouts/_shim.html.erb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1383282065793" ignored="false" />
+    <file path="$PROJECT_DIR$/../politicus1/app/views/figures/index.html.erb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1383367382637" ignored="false" />
+    <file path="$USER_HOME$/Documents/sites/werewolf_mafia/config/database.yml" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1384076572708" ignored="false" />
+    <file path="$USER_HOME$/Documents/sites/werewolf_mafia/Gemfile" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1384077942662" ignored="false" />
+    <file path="$USER_HOME$/Documents/sites/werewolf_mafia/app/views/layouts/application.html.erb" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1384077328839" ignored="false" />
+    <file path="$USER_HOME$/Documents/sites/werewolf_mafia/app/assets/javascripts/application.js" changelist="c8e4ab3b-51db-48b6-9e4d-ed76cf9fc055" time="1384077645439" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,19 +78,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="sessions_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/sessions_controller.rb">
+      <file leaf-file-name="players_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/players_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="24" column="25" selection-start="506" selection-end="506" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <file leaf-file-name="games_controller.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/controllers/games_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="24" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0">
+            <state line="36" column="23" selection-start="738" selection-end="738" vertical-scroll-proportion="0.6923077">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/players/show.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="48" selection-start="101" selection-end="101" vertical-scroll-proportion="6.923077">
               <folding />
             </state>
           </provider>
@@ -77,73 +108,8 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/users/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="43" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0">
+            <state line="17" column="23" selection-start="289" selection-end="289" vertical-scroll-proportion="-11.115385">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="20131021050213_add_admin_to_users.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/migrate/20131021050213_add_admin_to_users.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="16" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="edit.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/users/edit.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="1" selection-start="722" selection-end="722" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="new.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/users/new.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="users_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="47" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_header.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="1" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="20" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="22" selection-start="644" selection-end="644" vertical-scroll-proportion="0.4093098">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -158,22 +124,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/views/users/new.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/shared/_error_messages.html.erb" />
-        <option value="$PROJECT_DIR$/config/environments/production.rb" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/README.rdoc" />
         <option value="$PROJECT_DIR$/app/views/sessions/new.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-        <option value="$PROJECT_DIR$/app/models/user.rb" />
         <option value="$PROJECT_DIR$/app/views/users/edit.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
-        <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
-        <option value="$PROJECT_DIR$/app/views/users/index.html.erb" />
         <option value="$PROJECT_DIR$/db/migrate/20131021050213_add_admin_to_users.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+        <option value="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/users/_user.html.erb" />
+        <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
+        <option value="$PROJECT_DIR$/app/models/user.rb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss" />
+        <option value="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/users/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/players/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/controllers/games_controller.rb" />
       </list>
     </option>
   </component>
@@ -215,7 +181,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="RailsProjectView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -401,7 +366,51 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="players" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="werewolf4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="werewolf4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="werewolf4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="werewolf4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="games" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -537,11 +546,13 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="dynamic.classpath" value="false" />
@@ -657,6 +668,13 @@
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
+      <JSRemoteDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSRemoteDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
@@ -777,11 +795,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24932249" sideWeight="0.6951724" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26558265" sideWeight="0.6910345" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3184282" sideWeight="0.6924138" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3089655" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3075862" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -854,105 +872,115 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/games/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/sessions/new.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="6" selection-start="443" selection-end="443" vertical-scroll-proportion="-11.769231" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20131007012617_add_remember_token_to_users.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="24" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/user.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="11" selection-start="594" selection-end="594" vertical-scroll-proportion="0.0" />
+        <state line="27" column="34" selection-start="887" selection-end="887" vertical-scroll-proportion="0.93292683">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="45" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/sessions_controller.rb">
+    <entry file="file://$PROJECT_DIR$/app/models/player.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/users/new.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/custom.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="33" selection-start="419" selection-end="419" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="59" selection-start="296" selection-end="296" vertical-scroll-proportion="-7.1923075">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/games/_form.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="67" selection-start="431" selection-end="431" vertical-scroll-proportion="0.583691">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/games/edit.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/helpers/sessions_helper.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/games/games.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="4" selection-start="577" selection-end="577" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="1" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/users/edit.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/views/games/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="1" selection-start="722" selection-end="722" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/players/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="47" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/game.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/players/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="66" selection-start="600" selection-end="600" vertical-scroll-proportion="0.34334764">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/players_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="25" selection-start="506" selection-end="506" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/players/show.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="48" selection-start="101" selection-end="101" vertical-scroll-proportion="6.923077">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/users/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="43" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0">
+        <state line="17" column="23" selection-start="289" selection-end="289" vertical-scroll-proportion="-11.115385">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20131021050213_add_admin_to_users.rb">
+    <entry file="file://$PROJECT_DIR$/app/controllers/games_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="16" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0">
+        <state line="36" column="23" selection-start="738" selection-end="738" vertical-scroll-proportion="0.6923077">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="20" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="22" selection-start="644" selection-end="644" vertical-scroll-proportion="0.4093098">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

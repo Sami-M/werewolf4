@@ -1,6 +1,7 @@
 class UsersController < ApplicationController
   before_filter :signed_in_user, only: [:edit, :update]
   before_filter :correct_user,   only: [:edit, :update]
+  before_filter :admin_user,     only: :destroy
 
   # GET /users
   # GET /users.json
@@ -92,6 +93,9 @@ class UsersController < ApplicationController
     params.require(:user).permit(:name, :email, :password,
                                  :password_confirmation)
   end
+  def admin_user
+    redirect_to(root_url) unless current_user.admin?
+  end
 
   # Before filters
 
@@ -111,4 +115,5 @@ class UsersController < ApplicationController
     params.require(:user).permit(:name, :email, :password,
                                  :password_confirmation)
   end
+
 end

@@ -46,6 +46,20 @@ class GamesController < ApplicationController
       if @game.save
         format.html { redirect_to @game, notice: 'Game was successfully created.' }
         format.json { render json: @game, status: :created, location: @game }
+        x = 0
+
+        while (User.find_by_user_id(x) != Null) do
+          @users = User.find_by_user_id
+          @player = Player.new
+          @player.user_id = x
+          x = x+1
+          @player.lat = 0
+          @player.lng = 0
+          @player.alive = true
+          @player.wolf = false
+          @player.voting = false
+          @player.score = 0
+        end
       else
         format.html { render action: "new" }
         format.json { render json: @game.errors, status: :unprocessable_entity }
