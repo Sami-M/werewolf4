@@ -41,6 +41,15 @@ class UsersController < ApplicationController
     @user = User.find(params[:id])
   end
 
+  # POST /users/1/location
+  # Post /usrs/1/location.json
+  def location
+    @user = User.find(params[:id])
+    @player = Player.find_by_user_id(params[:id])
+
+
+  end
+
   # POST /users
   # POST /users.json
   def create
