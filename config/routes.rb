@@ -33,6 +33,9 @@ Werewolf4::Application.routes.draw do
   match '/highscores/', to: "highscore#show"
   match '/kill', :to => redirect('/kill.html')
 
+  DECIMAL_PATTERN =/\d*.\d*/.freeze
+  match '/position/:lat/:lng/:playerid', to: 'position#show', :constraints => {:lat => DECIMAL_PATTERN, :lng => DECIMAL_PATTERN, :playerid => /[0-9]*/}
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

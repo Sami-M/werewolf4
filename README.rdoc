@@ -38,6 +38,7 @@ in hopes to eliminate another werewolf before night.
 4. Signup done
 5. SSL added
 6. Preliminary testing with Python Requests
+7. Players can input location
 
 
 == App is hosted at http://werewolf-mafia.herokuapp.com/static_pages/home
