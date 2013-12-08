@@ -26,6 +26,41 @@
   <%= @user.user_id %>
 </p>
 
+<p>
+  <b>User:</b>
+  <%= @player.user_id %>
+</p>
+
+<p>
+  <b>Lat:</b>
+  <%= @player.lat %>
+</p>
+
+<p>
+  <b>Lng:</b>
+  <%= @player.lng %>
+</p>
+
+<p>
+  <b>Alive:</b>
+  <%= @player.alive %>
+</p>
+
+<p>
+  <b>Wolf:</b>
+  <%= @player.wolf %>
+</p>
+
+<p>
+  <b>Voting:</b>
+  <%= @player.voting %>
+</p>
+
+<p>
+  <b>Score:</b>
+  <%= @player.score %>
+</p>
+
 
 <%= link_to 'Edit', edit_user_path(@user) %> |
 <%= link_to 'Back', users_path %>
