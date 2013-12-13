@@ -13,7 +13,7 @@ class PlayersController < ApplicationController
   # GET /players/1
   # GET /players/1.json
   def show
-    @player = Player.find(params[:id])
+    @player = Player.find_by_user_id(params[:id])
 
     respond_to do |format|
       format.html # show.html.erb
@@ -34,7 +34,7 @@ class PlayersController < ApplicationController
 
   # GET /players/1/edit
   def edit
-    @player = Player.find(params[:id])
+    @player = Player.find_by_user_id(params[:id])
   end
 
   # POST /players
@@ -56,7 +56,7 @@ class PlayersController < ApplicationController
   # PUT /players/1
   # PUT /players/1.json
   def update
-    @player = Player.find(params[:id])
+    @player = Player.find_by_user_id(params[:id])
 
     respond_to do |format|
       if @player.update_attributes(params[:player])
@@ -72,7 +72,7 @@ class PlayersController < ApplicationController
   # DELETE /players/1
   # DELETE /players/1.json
   def destroy
-    @player = Player.find(params[:id])
+    @player = Player.find_by_user_id(params[:id])
     @player.destroy
 
     respond_to do |format|
