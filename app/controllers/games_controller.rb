@@ -60,6 +60,9 @@ class GamesController < ApplicationController
           @player.score = 0
           @player.save!
         end
+        @player = Player.find_by_user_id(rand(User.all.length - 1))
+        @player.wolf = true
+        @player.save!
       else
         format.html { render action: "new" }
         format.json { render json: @game.errors, status: :unprocessable_entity }
