@@ -5,7 +5,7 @@ class PositionController < ApplicationController
     lng = params[:lng]
     pid = params[:playerid]
 
-    @player = Player.find(params[:playerid])
+    @player = Player.find_by_user_id(params[:playerid])
     @player.lat = lat
     @player.lng = lng
 
